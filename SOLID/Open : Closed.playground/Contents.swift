@@ -1,4 +1,3 @@
-//: Playground - noun: a place where people can play
 /*
  Open Closed Principle states software entities (classes, modules, functions, etc.)
  should be open for extension, but closed for modification.
